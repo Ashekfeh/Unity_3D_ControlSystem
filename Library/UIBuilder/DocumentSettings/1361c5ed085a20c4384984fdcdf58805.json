@@ -1,0 +1,30 @@
+{
+    "UxmlGuid": "1361c5ed085a20c4384984fdcdf58805",
+    "UxmlPath": "Assets/SpeedWeedUI.uxml",
+    "CanvasX": 0,
+    "CanvasY": 0,
+    "CanvasWidth": 860,
+    "CanvasHeight": 336,
+    "MatchGameView": false,
+    "ZoomScale": 0.949999988079071,
+    "PanOffset": {
+        "x": 78.22003173828125,
+        "y": 218.55999755859376
+    },
+    "ColorModeBackgroundOpacity": 1.0,
+    "ImageModeCanvasBackgroundOpacity": 1.0,
+    "CameraModeCanvasBackgroundOpacity": 1.0,
+    "EnableCanvasBackground": false,
+    "CanvasBackgroundMode": 0,
+    "CanvasBackgroundColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+    },
+    "CanvasBackgroundImage": {
+        "instanceID": 0
+    },
+    "CanvasBackgroundImageScaleMode": 1,
+    "CanvasBackgroundCameraName": ""
+}
